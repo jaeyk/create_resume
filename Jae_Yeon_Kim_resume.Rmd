@@ -1,0 +1,214 @@
+---
+title: "Jae Yeon Kim's resume"
+author: Jae Yeon Kim
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jaeyeonkim@berkeley.edu
+
+- <i class="fa fa-github"></i> [github.com/jaeyk](https://github.com/jaeyk/)
+
+- <i class="fa fa-linkedin"></i> [linkedin.com/jae-yeon-kim](https://www.linkedin.com/in/jae-yeon-kim/)
+
+- <i class="fa fa-phone"></i> +1 510-646-5183
+
+- For more information, please contact me via email.
+
+
+Coursework {#skills}
+--------------------------------------------------------------------------------
+
+- Statistical and Causal Inference, Experimental Design, Survey Methods, Game Theory, Computational Social Science
+
+- Passed [Political Behavior](https://polisci.berkeley.edu/research-and-teaching/subfields/political-behavior) (social and cognitive psychology, survey and experimental
+design) field exam with distinction 
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Quantitative: Statistical and causal inference, Experimental and survey design
+
+- Computational: Computational text analysis, Machine learning, Web scraping, R (Advanced), Python (Intermediate), UNIX, Git, SQL (Familiar)
+
+- Qualitative: In-depth interviews, Archival research, Process tracing
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Main
+================================================================================
+
+Jae Yeon Kim {#title}
+--------------------------------------------------------------------------------
+
+### Overview 
+
+- Behavioral Data Scientist studying how people think and behave using behavioral science, statistics and data science tools
+- Research with sampling, survey design, survey experiments, natural experiments, factor analysis, cluster analysis, multivariate and hierarchical regression analysis, computational text analysis, machine learning
+- Research areas: behavioral science, computational social science, experimental and survey methods, measurement, causal inference
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of California, Berkeley
+
+PhD Candidate in Political Science
+
+Berkeley, California, USA
+
+Present
+
+### [Russell Sage Summer Institute in Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/princeton/people)
+
+Selected as one of 29 participants from a nationwide competition
+
+Princeton University, Princeton, USA
+
+Summer 2019
+
+### University of California, Berkeley
+
+MA in Political Science
+
+Berkeley, California, USA
+
+2016
+
+### Korea University 
+
+BA in Political Science, Linguistics, and English
+
+Seoul, South Korea 
+
+2011
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Science Fellow and Consultant
+
+[Data-intensive Social Sciences Lab](https://dlab.berkeley.edu/)
+
+UC Berkeley
+
+May 2019 - Present
+
+::: concise
+- Consulted faculty, graduate students, and staff on R, Python, statistical modeling, data visualization, and computational text analysis
+- Founded the working group on the bias and fairness in machine learning
+:::
+
+### Data Science Education Program Fellow
+
+[Data Science Education Program](https://ais.berkeley.edu/departments/data-science-education-program)
+
+UC Berkeley
+
+Spring 2020
+
+::: concise
+- Served as a research lead for the undergraduate students and project partners involved in 40+ [data science discovery projects](https://data.berkeley.edu/research/discovery)
+- Designed workshops on project management, computational reproducibility, and bias and fairness in machine learning
+:::
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T)
+
+Lead Instructor 
+
+UC Berkeley
+
+Spring 2019
+
+A graduate course on computational social science at UC Berkeley
+
+### Introduction to Empirical Analysis and Quantitative Methods
+
+Teaching assistant
+
+UC Berkeley
+
+Fall 2016 
+
+An undergraduate course on statistical methods at UC Berkeley
+
+Received [the best TA award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2017/) (given to less than 10% of Berkeley TAs)
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Causal Inference and Machine Learning [[GitHub](https://github.com/jaeyk/ITS-Text-Classification)]
+
+PhD Candidate 
+
+UC Berkeley 
+
+Fall 2019 
+
+- Demonstrated how machine learning can help create critical data for causal inference by combining text classification and interrupted time series design
+- Presented at [the 2019 Data Science Showcase](https://bids.berkeley.edu/events/fall-2019-data-science-showcase) at UC Berkeley
+
+### Natural Language Processing and Machine Learning [[GitHub](https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances)]
+
+PhD Candidate 
+
+UC Berkeley 
+
+2018
+
+- Parsed unstructured historical newspaper articles (HTML files), turned them into a tidy dataset, and classified the text data using machine learning
+- Selected to receive [the Best Paper Award in Asian Pacific American Politics](https://www.wpsanet.org/award/) at the upcoming Western Political Science Association annual meeting
+
+### Statistical Modeling of Time Series Data [[GitHub](https://github.com/jaeyk/regression-analysis-with-time-series-data)]
+
+PhD Candidate 
+
+UC Berkeley
+
+2016 - 2017 
+
+- Identified causal effects of the reduced government support on community organizing by collecting [original organizational data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FLUPBJ) and modeling time-series data  
+- Ensured the reliability of findings by doing robustness checks and running sensitivity analysis
+
+### Experimental Research [[GitHub](https://github.com/jaeyk/analyzing-list-experiments)]
+
+Graduate student 
+
+UC Berkeley
+
+2016 - 2017
+
+- Designed list experiments on sensitive political attitudes and embedded them in a nation-wide mobile survey experiment
+- Reduced sampling bias by matching the online panel data with a preexisting probability sample before carrying out the survey
+
+### Survey Research [[GitHub](https://github.com/jaeyk/measuring-lived-racial-experience)]
+
+Graduate Student Researcher
+
+UC Berkeley
+
+Summer 2018
+
+- Cleaned and wrangled a large-scale panel survey data, conducted multivariate and hierarchical regression analyses, and visualized results
+- Imputed missing responses using multiple imputations and validated key survey constructs using factor analysis
