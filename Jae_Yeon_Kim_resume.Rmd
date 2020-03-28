@@ -7,8 +7,9 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
+
 
 Aside
 ================================================================================
@@ -19,6 +20,8 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> jaeyeonkim@berkeley.edu
 
+- <i class="fa fa-link"></i> [jaeyk.github.io](https://jaeyk.github.io/)
+
 - <i class="fa fa-github"></i> [github.com/jaeyk](https://github.com/jaeyk/)
 
 - <i class="fa fa-linkedin"></i> [linkedin.com/jae-yeon-kim](https://www.linkedin.com/in/jae-yeon-kim/)
@@ -28,29 +31,23 @@ Contact Info {#contact}
 - For more information, please contact me via email.
 
 
-Coursework {#skills}
+Coursework
 --------------------------------------------------------------------------------
 
-- Statistical and Causal Inference, Experimental Design, Survey Methods, Game Theory, Computational Social Science
+Statistical and Causal Inference, Experimental Design, Survey Methods, Game Theory, Computational Social Science
 
-- Passed [Political Behavior](https://polisci.berkeley.edu/research-and-teaching/subfields/political-behavior) (social and cognitive psychology, survey and experimental
+Passed [Political Behavior](https://polisci.berkeley.edu/research-and-teaching/subfields/political-behavior) (social and cognitive psychology, survey and experimental
 design) field exam with distinction 
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Quantitative: Statistical and causal inference, Experimental and survey design
+- <i class="fa fa-calculator"></i> **Quantitative**: Statistical and causal inference, Experimental and survey design
 
-- Computational: Computational text analysis, Machine learning, Web scraping, R (Advanced), Python (Intermediate), UNIX, Git, SQL (Familiar)
+- <i class="fa fa-laptop"></i> **Computational**: Computational text analysis, Machine learning, Web scraping, R (Advanced), Python (Intermediate), UNIX, Git, SQL (Familiar)
 
-- Qualitative: In-depth interviews, Archival research, Process tracing
+- <i class="fa fa-users"></i> **Qualitative**: In-depth interviews, Archival research, Process tracing
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
 
 Main
 ================================================================================
@@ -74,7 +71,7 @@ PhD Candidate in Political Science
 
 Berkeley, California, USA
 
-Present
+2016 - 2020 (expected)
 
 ### [Russell Sage Summer Institute in Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/princeton/people)
 
@@ -153,9 +150,9 @@ Fall 2016
 
 An undergraduate course on statistical methods at UC Berkeley
 
-Received [the best TA award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2017/) (given to less than 10% of Berkeley TAs)
+Received [the outstanding graduate student instructor award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2017/), which is given to less than 10% of Berkeley TAs
 
-Research Experience {data-icon=laptop}
+Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
 ### Causal Inference and Machine Learning [[GitHub](https://github.com/jaeyk/ITS-Text-Classification)]
@@ -168,6 +165,12 @@ Fall 2019 - Present
 
 - Demonstrated how machine learning can help create critical data for causal inference by combining text classification and interrupted time series design
 - Presented at [the 2019 Data Science Showcase](https://bids.berkeley.edu/events/fall-2019-data-science-showcase) at UC Berkeley
+
+::: aside 
+
+- <i class="fas fa-star"></i> **Fellowships**: Visiting Democracy Fellowship, Ash Center for Democratic Governance and Innovation, Kennedy School, Harvard University (2020 - 2021, declined), D-Lab Data Science Fellowship, UC Berkeley (2020), American Democracy Project Fellowship, UC Berkeley (2019), California Poverty and Socioeconomic Inequality Fellows Program, the Blum Initiative for Global and Regional Poverty Studies (2017), Berkeley Empirical Legal Studies Graduate Fellowship, Center for the Study of Law and Society, UC Berkeley (2017)
+
+:::
 
 ### Natural Language Processing and Machine Learning [[GitHub](https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances)]
 
@@ -201,6 +204,13 @@ UC Berkeley
 
 - Designed list experiments on sensitive political attitudes and embedded them in a nation-wide mobile survey experiment
 - Reduced sampling bias by matching the online panel data with a preexisting probability sample before carrying out the survey
+
+
+::: aside 
+
+- <i class="fas fa-trophy"></i> **Awards**: Don T. Nakanishi Award for Distinguished Scholarship in Asian Pacific American Politics, Western Political Science Association (2020), Outstanding Graduate Student Instructor Award, UC Berkeley (2016)
+
+:::
 
 ### Survey Research [[GitHub](https://github.com/jaeyk/measuring-lived-racial-experience)]
 
