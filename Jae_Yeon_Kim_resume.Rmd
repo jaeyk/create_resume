@@ -155,7 +155,7 @@ Received [the outstanding graduate student instructor award](https://gsi.berkele
 Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Causal Inference and Machine Learning [[GitHub](https://github.com/jaeyk/ITS-Text-Classification)]
+### [Causal Inference and Machine Learning](https://jaeyk.github.io/_pages/project3/) [[GitHub](https://github.com/jaeyk/ITS-Text-Classification)]
 
 PhD Candidate 
 
@@ -172,7 +172,7 @@ Fall 2019 - Present
 
 :::
 
-### Natural Language Processing and Machine Learning [[GitHub](https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances)]
+### [Natural Language Processing and Machine Learning](https://jaeyk.github.io/_pages/project4/) [[GitHub](https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances)]
 
 PhD Candidate 
 
@@ -183,7 +183,7 @@ UC Berkeley
 - Parsed unstructured historical newspaper articles (HTML files), turned them into a tidy dataset, and classified the text data using machine learning
 - Selected to receive [the Best Paper Award in Asian Pacific American Politics](https://www.wpsanet.org/award/) at the upcoming Western Political Science Association annual meeting
 
-### Statistical Modeling of Time Series Data [[GitHub](https://github.com/jaeyk/regression-analysis-with-time-series-data)]
+### [Statistical Modeling of Time Series Data](https://jaeyk.github.io/_pages/project6/) [[GitHub](https://github.com/jaeyk/regression-analysis-with-time-series-data)]
 
 PhD Candidate 
 
@@ -194,7 +194,7 @@ UC Berkeley
 - Identified causal effects of the reduced government support on community organizing by collecting [original organizational data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FLUPBJ) and modeling time-series data  
 - Ensured the reliability of findings by doing robustness checks and running sensitivity analysis
 
-### Experimental Research [[GitHub](https://github.com/jaeyk/analyzing-list-experiments)]
+### [Experimental Research](https://jaeyk.github.io/projects/) [[GitHub](https://github.com/jaeyk/analyzing-list-experiments)]
 
 Graduate Student 
 
@@ -212,7 +212,7 @@ UC Berkeley
 
 :::
 
-### Survey Research [[GitHub](https://github.com/jaeyk/measuring-lived-racial-experience)]
+### [Survey Research](https://jaeyk.github.io/_pages/project2/) [[GitHub](https://github.com/jaeyk/measuring-lived-racial-experience)]
 
 Graduate Student Researcher
 
@@ -222,3 +222,9 @@ Summer 2018
 
 - Cleaned and wrangled a large-scale panel survey data, conducted multivariate and hierarchical regression analyses, and visualized results
 - Imputed missing responses using multiple imputations and validated key survey constructs using factor analysis
+
+::: aside 
+
+- <i class="fas fa-trophy"></i> **Awards**: Don T. Nakanishi Award for Distinguished Scholarship in Asian Pacific American Politics, Western Political Science Association (2020), Outstanding Graduate Student Instructor Award, UC Berkeley (2016)
+
+:::
