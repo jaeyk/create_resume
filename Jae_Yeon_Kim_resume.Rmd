@@ -145,7 +145,7 @@ A graduate course on computational social science at UC Berkeley
 
 ### Introduction to Empirical Analysis and Quantitative Methods
 
-Teaching assistant
+Teaching Assistant
 
 UC Berkeley
 
@@ -208,7 +208,7 @@ Graduate Student Researcher
 
 UC Berkeley
 
-Summer 2018 - Present
+Summer 2018
 
 - Cleaned and wrangled a large-scale panel survey data, conducted multivariate and hierarchical regression analyses, and visualized results
 - Imputed missing responses using multiple imputations and validated key survey constructs using factor analysis
