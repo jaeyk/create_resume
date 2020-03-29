@@ -47,7 +47,7 @@ Skills {#skills}
 
 - <i class="fa fa-laptop"></i> **Computational**: Computational text analysis, Machine learning, Web scraping, R (Advanced), Python (Intermediate), UNIX, Git, SQL (Familiar)
 
-- <i class="fa fa-users"></i> **Qualitative**: In-depth interviews, Archival research, Process tracing
+- <i class="fa fa-users"></i> **Qualitative**: In-depth interviews, Archival research, Structured case studies
 
 
 Main
@@ -88,7 +88,7 @@ MA in Political Science
 
 Berkeley, California, USA
 
-2016
+2014 - 2016
 
 ### Korea University 
 
@@ -96,7 +96,7 @@ BA in Political Science, Linguistics, and English
 
 Seoul, South Korea 
 
-2011
+2012
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -127,11 +127,10 @@ Spring 2020
 - Designed workshops on project management, computational reproducibility, and bias and fairness in machine learning
 :::
 
-
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### [An Introduction to Computational Tools and Techniques for Social Science Research](https://github.com/jaeyk/PS239T)
+### [An Introduction to Computational Tools and Techniques for Social Science Research (graduate)](https://github.com/jaeyk/PS239T)
 
 Lead Instructor 
 
@@ -139,17 +138,13 @@ UC Berkeley
 
 Spring 2019
 
-A graduate course on computational social science at UC Berkeley
-
-### Introduction to Empirical Analysis and Quantitative Methods
+### Introduction to Empirical Analysis and Quantitative Methods (undergraduate)
 
 Teaching Assistant
 
 UC Berkeley
 
 Fall 2016 
-
-An undergraduate course on statistical methods at UC Berkeley
 
 Received [the outstanding graduate student instructor award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2017/), which is given to less than 10% of Berkeley TAs
 
