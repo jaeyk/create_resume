@@ -47,7 +47,7 @@ Skills {#skills}
 
 - <i class="fa fa-laptop"></i> **Computational**: Computational text analysis, Machine learning, Web scraping, R (Advanced), Python (Intermediate), UNIX, Git, SQL (Familiar)
 
-- <i class="fa fa-users"></i> **Qualitative**: In-depth interviews, Archival research, Structured case studies
+- <i class="fa fa-users"></i> **Soft skills**: Strong project management and communication skills (award-winning researcher and instructor) 
 
 
 Main
@@ -58,7 +58,7 @@ Jae Yeon Kim {#title}
 
 ### Overview 
 
-- Behavioral Data Scientist studying how people think and behave using behavioral science, statistics and data science tools
+- Computational social scientist studying how people think and behave using behavioral science, statistics and data science tools
 - Research with sampling, survey design, survey experiments, natural experiments, factor analysis, cluster analysis, multivariate and hierarchical regression analysis, computational text analysis, machine learning
 - Research areas: behavioral science, computational social science, experimental and survey methods, measurement, causal inference
 
@@ -74,9 +74,15 @@ Berkeley, California, USA
 
 2016 - 2020 (expected)
 
-### [Russell Sage Summer Institute in Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/princeton/people)
+::: concise
+Subfields: Computational social science, Political behavior
+:::
 
+### [Summer Institute in Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/princeton/people)
+
+::: concise
 Selected as one of 29 participants from a nationwide competition
+:::
 
 Princeton University, Princeton, USA
 
@@ -110,7 +116,7 @@ UC Berkeley
 May 2019 - Present
 
 ::: concise
-- Consulted on R, Python, statistical modeling, data wrangling and visualization, and computational text analysis
+- Consulted on statistical modeling, data wrangling and visualization, and computational text analysis
 - Founded the working group on the bias and fairness in machine learning
 :::
 
@@ -123,14 +129,15 @@ UC Berkeley
 Spring 2020
 
 ::: concise
-- Served as a research lead for the undergraduate students and project partners involved in 40+ [data science discovery projects](https://data.berkeley.edu/research/discovery)
-- Designed workshops on project management, computational reproducibility, and bias and fairness in machine learning
+- Served as a research lead for the undergraduate students and project partners involved in 40+ [data science discovery projects](https://data.berkeley.edu/research/discovery) 
+- Designed workshops on project management, computational reproducibility, and the bias and fairness in machine learning
 :::
+
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### [An Introduction to Computational Tools and Techniques for Social Science Research (graduate)](https://github.com/jaeyk/PS239T)
+### An Introduction to Computational Tools and Techniques for Social Science Research (graduate) [[GitHub](https://github.com/jaeyk/PS239T)]
 
 Lead Instructor 
 
@@ -216,5 +223,5 @@ UC Berkeley
 
 Summer 2018
 
-- Cleaned and wrangled a large-scale panel survey data, conducted multivariate and hierarchical regression analyses, and visualized results
+- Cleaned and wrangled a large survey data, conducted multivariate and hierarchical regression analyses, and visualized model outputs
 - Imputed missing responses using multiple imputations and validated key survey constructs using factor analysis
