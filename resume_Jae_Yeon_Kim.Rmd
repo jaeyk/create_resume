@@ -19,7 +19,7 @@ Last updated on `r Sys.Date()`.
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> jaeyeonkim@berkeley.edu
+- <i class="fa fa-envelope"></i> jkim638@jhu.edu
 
 - <i class="fa fa-link"></i> [jaeyk.github.io](https://jaeyk.github.io/)
 
@@ -37,7 +37,7 @@ Coursework
 
 Statistical and Causal Inference, Experimental Design, Survey Methods, Game Theory, Computational Social Science
 
-Passed [Political Behavior](https://polisci.berkeley.edu/research-and-teaching/subfields/political-behavior) (social and cognitive psychology, survey and experimental
+Passed [Political Behavior](https://polisci.berkeley.edu/research-and-teaching/subfields/political-behavior) (social and cognitive psychology, survey, and experimental
 design) field exam with distinction 
 
 Skills {#skills}
@@ -45,7 +45,7 @@ Skills {#skills}
 
 - <i class="fa fa-calculator"></i> **Quantitative**: Statistical and causal inference, Experimental and survey design
 
-- <i class="fa fa-laptop"></i> **Computational**: Natural language processing, Machine learning, R (tidyverse, tidymodels, statistical packages), Python (pandas, scikit-learn), Git, SQL (PostgreSQL), NoSQL (MongoDB), Linux Command Line
+- <i class="fa fa-laptop"></i> **Computational**: Natural language processing, Machine learning, R (tidyverse, tidymodels, statistical packages), Python (pandas, scikit-learn), Git/GitHub, SQL (PostgreSQL), Linux Command Line
 
 Main
 ================================================================================
@@ -55,62 +55,48 @@ Jae Yeon Kim {#title}
 
 ### Overview 
 
-- Computational social scientist: using data science to study the politics of diversity and inclusion 
-- Research software developer: building tools that make digital data collection easier and faster 
-- Experience: analyzing survey, experimental, administrative, and text data using statistical and machine learning methods
+- Computational social scientist: using statistics and data science to solve public problems and strengthen civic engagement
+- Research software developer: building tools that help data curation
+- Domain expertise: political psychology, public opinion and election, race, inequality, immigration, social policy, and urban and local politics
+- Data experience: survey, experimental, administrative, and text data
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### University of California, Berkeley
 
-PhD Candidate in Political Science
+PhD in Political Science (**Co-Winner of the 2022 Best Dissertation Award, Urban and Local Politics Section, American Political Science Association**)
 
 Berkeley, California, USA
 
-2016 - Present
-
-### [Summer Institute in Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/princeton/people)
-
-Participant (10% acceptance rate)
-
-Princeton University, Princeton, USA
-
-Summer 2019
-
-### University of California, Berkeley
-
-MA in Political Science
-
-Berkeley, California, USA
-
-2014 - 2016
-
-### Korea University 
-
-BA in Political Science and English
-
-Seoul, South Korea 
-
-2012
+2021
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Senior Data Science Fellow, Instructor, and Statistical Consultant
+### Senior Data Scientist
 
-[Data-intensive Social Sciences Lab](https://dlab.berkeley.edu/)
+Product and Technology Team
 
-UC Berkeley
+Code for America
 
-May 2019 - Present
+- Embedded in a team working with partner states to improve safety net experiences and outcomes
 
-- Consulted 60+ Berkeley faculty, students, and staff on applied statistics, machine learning, and database management
-- Developed six original data science workshops ([Machine Learning with Tidymodels](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels), [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users), [R Package Development](https://github.com/dlab-berkeley/R-package-development), [Functional Programming in R](https://github.com/dlab-berkeley/R-functional-programming), [Advanced Data Wrangling in R](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R), and [Reproducible Project Management in R](https://github.com/dlab-berkeley/efficient-reproducible-project-management-in-R))
-- Taught programming fundamentals, data wrangling, machine learning, and project management 
-- Organized and streamlined consulting and workshop production
+January 2023 - Present
 
-### Visiting Fellow 
+### Assistant Professor of Data Science
+
+Core faculty, data science concentration
+
+KDI School of Public Policy Management
+
+January 2022 - December 2022
+
+- Co-developed South Korea's first public policy-focused data science program from scratch 
+- Co-designed the data science concentration curriculum and set the standards for faculty hiring 
+- Designed and instructed R fundamentals for public policy and data communication and visualization
+
+### Pre- and Postdoctoral Fellow (Currently: Affiliated Researcher)
 
 [P3 Lab, SNF Agora Institute](http://www.hahriehan.com/aboutp3)
 
@@ -118,7 +104,21 @@ Johns Hopkins University,
 
 Fall 2020 - Present 
 
-- Working with Milan de Vries (former Director of Analytics at MoveOn.Org) to build a data infrastructure on civic organizations in the US and their relationships with food security, polarization, and the 2020 racial justice movement 
+- Created the most comprehensive dataset on U.S. civil society ([Mapping the Modern Agora project](https://snfagora.jhu.edu/project/mapping-the-modern-agora/)) with Milan de Vries (former Director of Analytics at MoveOn.Org)
+- Developed open-source research software ([MapAgora](https://snfagora.github.io/MapAgora/)) that supports the data curation with Milan de Vries 
+- Analyzed the statistical relationships between civic opportunities and policy outcomes (e.g., vaccination)
+
+### Senior Data Science Fellow, Instructor, and Consultant
+
+[Data-intensive Social Sciences Lab](https://dlab.berkeley.edu/)
+
+UC Berkeley
+
+May 2019 - May 2021
+
+- Consulted 60+ Berkeley faculty, students, and staff on applied data science and statistics
+- Developed and taught six original data science workshops, ranging from programming fundamentals to machine learning
+- Organized and streamlined consulting and workshop production
 
 ### Data Science Education Program Fellow
 
@@ -128,18 +128,10 @@ UC Berkeley
 
 Spring 2020
 
-- Served as research lead for the undergraduate students and project partners involved in 40+ [data science discovery projects](https://data.berkeley.edu/research/discovery) 
-- Taught original [workshops](https://slides.com/jaeyeonkim) on project management, computational reproducibility, bias in machine learning, and data visualization
+- Advised the undergraduate students and project partners involved in 40+ [data science discovery projects](https://data.berkeley.edu/research/discovery) 
 - Published [an article](https://ocean.sagepub.com/blog/skills/5-principles-to-get-undergraduates-involved-in-real-world-data-science-projects) on project management in SAGE Ocean, an initiative from SAGE Publishing focusing on computational social science
 
-
-::: aside 
-
-- <i class="fas fa-star"></i> **Fellowships**: Democracy Visiting Fellowship, Ash Center for Democratic Governance and Innovation, Kennedy School, Harvard University (2020 - 2021, declined), D-Lab Data Science Fellowship, UC Berkeley (2020), Data Science Education Program Fellowship, UC Berkeley (2020), American Democracy Project Fellowship, UC Berkeley (2019), California Poverty and Socioeconomic Inequality Fellows Program, the Blum Initiative for Global and Regional Poverty Studies (2017), Berkeley Empirical Legal Studies Graduate Fellowship, Center for the Study of Law and Society, UC Berkeley (2017)
-
-::: 
-
-### Graduate student instructor 
+### Graduate Student Instructor 
 
 Department of Political Science
 
@@ -147,119 +139,67 @@ UC Berkeley
 
 Fall 2016 - Present 
 
-- Developed and taught original graduate-level courses on [computational tools for social science research](https://github.com/jaeyk/PS239T) as lead instructor ([original online textbook](https://jaeyk.github.io/PS239T/)) and [digital data collection](https://github.com/jaeyk/digital_data_collection_workshop) as co-instructor
-- Taught an undergraduate-level applied statistics as a teaching assistant and received [the outstanding graduate student instructor award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2017/), which is given to less than 10% of Berkeley TAs
-
+- Taught graduate-level courses on [computational tools for social science research](https://github.com/jaeyk/PS239T) as lead instructor
+- Wrote an [open-access online textbook on computational thinking for social scientists](https://jaeyk.github.io/comp_thinking_social_science/)
+- Taught an undergraduate-level applied statistics as a teaching assistant and received [the Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2017/), which is given to less than 10% of Berkeley TAs
 
 Software {data-icon=laptop}
 --------------------------------------------------------------
 
-[**tidytweetjson**](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset. The package takes average 5 seconds to turn 100 tweets into a tidy dataframe. 
+[**MapAgora**](https://snfagora.github.io/MapAgora/): R package for getting tax reports, websites, and social media handles related to nonprofit organizations in the United States (with Milan de Vries)
 
-[**tidyethnicnews**](https://github.com/jaeyk/tidyethnicnews): R package for turning search results from one of the largest databases on ethnic newspapers and magazines published in the United States into a cleaned and wrangled dataset. The package takes average 0.0005 seconds to turn 1,000 articles into a tidy dataframe. 
+[**tidytweetjson**](https://github.com/jaeyk/tidytweetjson): R package for turning Tweet JSON files into a cleaned and wrangled dataset.  
 
-Research Experience {data-icon=flask}
+[**tidyethnicnews**](https://github.com/jaeyk/tidyethnicnews): R package for turning search results from one of the largest databases on ethnic newspapers and magazines published in the United States into a cleaned and wrangled dataset.
+
+Selected Publications {data-icon=flask}
 ------------------------------------------------------------------------------
 
-### [Large-scale Twitter Analysis on COVID-19 and Anti-Asian Climate](https://github.com/jaeyk/jaeyk.github.io/blob/master/_pages/project8.md) [[GitHub](https://github.com/jaeyk/covid19antiasian/)] [[Preprint](https://osf.io/preprints/socarxiv/dvm7r/)]
+### [COVID-19 and Asian Americans: How Elite Messaging and Social Exclusion Shape Partisan Attitudes](https://t.co/4Axd0gEQns) [[GitHub](https://github.com/jaeyk/covid19antiasian/)]
 
-PhD Candidate 
+Co-author 
 
-UC Berkeley 
+**Perspectives on Politics (2021)**
 
-Summer 2020 - Present 
+- Developed an [R package](https://github.com/jaeyk/tidytweetjson) that automates parsing a large Tweet JSON file (>5 GB) into a cleaned and wrangled dataset
+- Applied keyword-based topic modeling to 1.4 million tweets and traced the rise of anti-Asian sentiment in the post-pandemic U.S.
 
-- Developed an [R package](https://github.com/jaeyk/tidytweetjson) that automates parsing a large Tweet JSON file (>5GB) into a cleaned and wrangled dataset
-- Applied dynamic topic modeling to 1.4 million tweets and traced the rise of anti-Asian sentiment in the post-pandemic US
-- Presented at the 2020 American Political Science Association annual meeting
-- Co-authored a [preprint](https://osf.io/preprints/socarxiv/dvm7r/)
+### [Misinformation and Hate Speech: The Case of Anti-Asian Hate Speech During the COVID-19 Pandemic](https://tsjournal.org/index.php/jots/article/view/13/5) [[GitHub](https://github.com/jaeyk/asian_hate_misinformation)] 
 
-::: aside 
+Lead author
 
-- <i class="fas fa-trophy"></i> **Awards**: Don T. Nakanishi Award for Distinguished Scholarship and Service in Asian Pacific American Politics, Western Political Science Association (2020), Outstanding Graduate Student Instructor Award, UC Berkeley (2016)
+**Journal of Online Trust and Safety (2021)**
 
-:::
+- Invited for the inaugural issue of the Journal of Online Trust and Safety hosted by Stanford's Internet Observatory 
+- Applied embedding regression methods to 50k+ U.S. tweets related to COVID-19 and anti-Asian hate and found the tie between hate speech and misinformation
 
-### [Causal Inference and Machine Learning](https://jaeyk.github.io/_pages/project3/) [[GitHub](https://github.com/jaeyk/ITS-Text-Classification)] [[Preprint](https://osf.io/preprints/socarxiv/y65sd/)] [[Slides](https://docs.google.com/presentation/d/15IQNQk62wA4hmqkxZuCX3csvi2nc_jNizqurOaQSeEI/edit?usp=sharing)]
+### [Intersectional Bias in Hate Speech and Abusive Language Detection Datasets](https://jaeyk.github.io/_pages/project7/) [[GitHub](https://github.com/jaeyk/intersectional-bias-in-ml)]
 
-PhD Candidate 
+Lead author 
 
-UC Berkeley 
-
-Fall 2019 - Present
-
-- Developed an [R package](https://github.com/jaeyk/tidyethnicnews) that automates parsing ethnic newspaper articles (in HTML format) into a cleaned and wrangled dataset
-- Used a natural experiment and machine learning to examine how threats prompt information seeking among marginalized populations
-- Presented at [the joint Political Computational Social Science and Political Network 2020 Conference](https://web.northeastern.edu/nulab/pacss/) and [the Berkeley Computational Social Science Forum](https://bids.berkeley.edu/events/css-forum-2020-0914) 
-- Co-authored a [preprint](https://osf.io/preprints/socarxiv/y65sd/)
-
-
-### [Intersectional Bias in Hate Speech and Abusive Language Detection Datasets](https://jaeyk.github.io/_pages/project7/) [[GitHub](https://github.com/jaeyk/intersectional-bias-in-ml)] [[Preprint](https://arxiv.org/abs/2005.05921)] [[Slides](https://slides.com/jaeyeonkim/intersectional-bias-in-hate-speech-and-abusive-language-datasets/fullscreen)]
-
-PhD Candidate 
-
-UC Berkeley 
-
-Spring 2020
+**The International AAAI Conference on Web and Social Media Data Workshop (2020)**
 
 - Classified gender, racial, and party identities of the 100k tweets
 - Demonstrated African American tweets were up to 3.7 times more likely to be labeled as abusive, and African American male tweets were up to 77% more likely to be labeled as hateful compared to the others
-- Published the paper version in [*Proceedings of the Fourteenth International Conference on Web and Social Media (ICWSM), Data Challenge Workshop*](https://sites.google.com/view/icwsm2020datachallenge/home)
 
-### [Natural Language Processing and Machine Learning](https://jaeyk.github.io/_pages/project4/) [[GitHub](https://github.com/jaeyk/content-analysis-for-evaluating-ML-performances)] [[Preprint](https://osf.io/preprints/socarxiv/pg3aq/)] [[Slides](https://slides.com/jaeyeonkim/deck/fullscreen)]
-
-PhD Candidate 
-
-UC Berkeley 
-
-Fall 2018 - Spring 2019
-
-- Demonstrated unreliable training data generates weak predictions and extreme interpretations using 80k+ ethnic newspaper articles
-- Received [the Best Paper Award in Asian Pacific American Politics](https://www.wpsanet.org/award/) from the Western Political Science Association (2020)
-- Authored a preprint, which was conditionally accepted at the [*Journal of Computational Social Science*](https://www.springer.com/journal/42001)
-
-### [Statistical Modeling of Time Series Data](https://jaeyk.github.io/_pages/project6/) [[GitHub](https://github.com/jaeyk/regression-analysis-with-time-series-data)] [[Preprint](https://osf.io/preprints/socarxiv/n83xs/?fbclid=IwAR0hjNshUloYDUxmgfK6DQ8arygUs_ePBWcTKUt0UDegyTcT9KTLefLYwGY)]
-
-PhD Candidate 
-
-UC Berkeley
-
-2016 - 2018 
-
-- Examined how social policy influenced community organizing among Asian Americans and Latinos by creating an original [organizational dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FLUPBJ) and modeling time-series data
-- Authored a preprint, which was invited to Revise and Resubmit at [*Political Research Quarterly*](https://journals.sagepub.com/home/prq)
-
-### [Survey and Experimental Research](https://jaeyk.github.io/_pages/project5/) [[GitHub](https://github.com/jaeyk/validating-two-linked-fates)] [[Preprint](https://osf.io/preprints/socarxiv/k6c9x)]
-
-PhD Candidate 
-
-UC Berkeley
-
-2019 - Spring 2020 
-
-- Designed a within-subject experiment and embedded it in a California-wide survey to investigate how different racial groups interpret questions on racial solidarity differently 
-- Authored a [preprint](https://osf.io/preprints/socarxiv/k6c9x)
-
-### [Survey Research](https://jaeyk.github.io/_pages/project2/) [[GitHub](https://github.com/jaeyk/measuring-lived-racial-experience)]
-
-Graduate Student Researcher
-
-UC Berkeley
-
-Summer 2018
-
-- Cleaned and wrangled the largest panel survey data on Asian Americans and conducted factor and regression analysis
-
-Organizing experience {data-icon=group}
+Community Building {data-icon=group}
 --------------------------------------------------------------------------------
 
-### [Summer Institute in Computational Social Science in the San Francisco Bay Area](https://compsocialscience.github.io/summer-institute/2020/bay_area/)
+### [The First Summer Institute in Computational Social Science in South Korea](https://sicss.io/2022/korea/) (co-hosted by KAIST and KDI School)
+
+Co-organizer 
+
+November 2021 - June 2022 
+
+- Reviewed 60+ applicants and selected 18 participants 
+- Designed the curriculum and guided the project development
+
+### [The First Summer Institute in Computational Social Science in the San Francisco Bay Area](https://sicss.io/2020/bay_area/) (co-hosted by UC Berkeley and Stanford) [[Berkeley Institute of Data Science blog post](https://bids.berkeley.edu/)]
 
 Co-organizer 
 
 August 2019 - July 2020
 
-- Raised 50k+, reviewed 100+ applicants and selected 20 participants 
+- Raised 50k+, reviewed 100+ applicants, and selected 20 participants 
 - Developed close partnerships with Bay Area nonprofits (e.g., Code for America, DonorsChoose, Hopelab)
-- Designed the curriculum, guided the project development and developed the evaluation criteria
-- Published a [blog post](https://bids.berkeley.edu/news/bay-sicss-bridging-computational-social-scientists-and-practitioners-social-good) on the *[Berkeley Institute of Data Science](https://bids.berkeley.edu/)* website that highlights the key accomplishments of the Summer Program 
+- Designed the curriculum and guided the project development
